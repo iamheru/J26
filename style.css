@@ -6,10 +6,10 @@ Style J26
     color: #fff;
     height: 90px;
 }
-.header-list
-li {
+.header-list li {
   list-style: none;
   float: left;
+  padding: 33px 20px;  
 }
 .header-logo {
   float: left;
