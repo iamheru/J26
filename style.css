@@ -1,9 +1,18 @@
 /*
 Style J26
 */
+.header {
+    background-color: #302f2f;
+    color: #fff;
+    height: 90px;
+}
 .header-list
 li {
   list-style: none;
   float: left;
 }
-.header-logo { float: left;}
+.header-logo {
+  float: left;
+  font-size: 28px;
+  padding: 20px 40px;
+}
