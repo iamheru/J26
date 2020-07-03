@@ -7,7 +7,4 @@ li {
   float: left;
 }
 .header-logo
-li {
-  float: left;
-  padding-top: 20px;
-}
+li {float: left;}
